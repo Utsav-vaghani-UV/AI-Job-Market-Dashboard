@@ -126,10 +126,9 @@ Visit your app at: [http://localhost:8000](http://localhost:8000)
 
 ## 🙋 About the Author
 
-**Denish Asodariya**  
-M.S. Computer Science, Illinois Institute of Technology  
-Email: asodariyadenish275@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/denish-asodariya/)
+**Utsav Vaghani**  
+M.S. in Computer Science, Governors State University
+Email: waghaniutsav6608@gmail.com
 
 ---
 
